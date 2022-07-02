@@ -1,16 +1,15 @@
-### Hi there 👋
-
-<!--
-**AbigailRiquelme/AbigailRiquelme** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- ######## This is a comment, visible only in the source editor  ######## -->
+<h2 style="color: #4485b8;"><code><span style="color: #000080;">Contact</span></code></h2>
+<hr />
+<ul style="list-style-type: square;">
+<li><a href="mailto:anaabigailriquelme@gmail.com">anaabigailriquelme@gmail.com</a></li>
+<li><a href="mailto:ariquelme@udesa.edu.ar">ariquelme@udesa.edu.ar</a>&nbsp;</li>
+</ul>
+<h2 style="color: #4485b8;"><code><span style="color: #000080;">Code examples</span></code></h2>
+<hr />
+<ul style="list-style-type: square;">
+<li><a href="https://github.com/AbigailRiquelme/Forecasting.git"><span style="color: #000000;">R-Studio&nbsp;</span></a></li>
+<li><a href="https://github.com/AbigailRiquelme/EconomiaAplicada.git"><span style="color: #000000;">Stata&nbsp;</span></a></li>
+<li><a href="https://github.com/AbigailRiquelme/BigData.git"><span style="color: #000000;">Python&nbsp;</span></a></li>
+</ul>
+<p></p>
